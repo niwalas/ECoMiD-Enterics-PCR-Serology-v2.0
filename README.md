@@ -144,14 +144,19 @@ HlyE is excluded from *S. enterica* seropositivity. Additional targets appear in
 
 ## Citation
 
-> pre-print
->
-> 
+Walas, Nikolina, Lesly Simbaña Vivanco, Stuart Torres Ayala, et al. “Measuring Enteric Pathogen Force of Infection through Antibody Responses in Children.” Preprint, Infectious Diseases (except HIV/AIDS), October 5, 2026. https://doi.org/10.64898/2026.09.29.26364344.
 
 ---
 
 ## Zenodo Repository
 
+ECoMiD-Enterics-PCR-Serology-v2.0: v2.0 zenodo (Version v2.01)
+
+https://doi.org/10.5281/zenodo.23376476
+
+---
+## OSF Repository
+10.17605/OSF.IO/HDE8K
 
 ---
 
